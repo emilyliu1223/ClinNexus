@@ -1,0 +1,61 @@
+
+
+export default {
+    products:[
+        {
+            _id:'1',
+        name:"Phone",
+         image:"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1587665105-samsung-galaxy-s10e-smartphone-1550695757.jpg",
+         price:1000,
+         brand:'Samsung 9 note',
+         rating:4.5,
+         review:7
+    },
+    {
+        _id:'2',
+        name:"Shirt",
+     image:"https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/7505057372586",
+     price:40,
+     brand:'Disney',
+     rating:4.8,
+     review:109
+},
+{
+    _id:'3',
+    name:"Earings",
+ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlG_C9T_0jQp4PEQ429T7Mj-3kJtb4GgdNFQ&usqp=CAU",
+ price:120,
+ brand:'Katy',
+ rating:4.2,
+ review:12
+},
+{
+    _id:'4',
+    name:"Shoes",
+ image:"https://images.vans.com/is/image/Vans/EYEBWW-HERO?$583x583$",
+ price:49,
+ brand:'Ven',
+ rating:4.0,
+ review:99
+},
+{
+    _id:'5',
+    name:"Shoes",
+ image:"https://images.vans.com/is/image/Vans/EYEBWW-HERO?$583x583$",
+ price:49,
+ brand:'Ven',
+ rating:4.0,
+ review:99
+},
+{
+    _id:'6',
+    name:"Shoes",
+ image:"https://images.vans.com/is/image/Vans/EYEBWW-HERO?$583x583$",
+ price:49,
+ brand:'Ven',
+ rating:4.0,
+ review:99
+}
+
+    ]
+}
